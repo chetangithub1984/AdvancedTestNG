@@ -9,6 +9,7 @@ public class FirstProg {
 	public void firsttest() {
 		
 		System.out.println("first test started");
+		System.out.println(System.getProperty("userName"));
 	}
 
 }
